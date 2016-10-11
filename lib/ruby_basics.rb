@@ -1,23 +1,23 @@
-def division
-    
+def division(first,second)
+    first/second
 end
 
-def argue
-  
+def argue(string)
+  string
 end
 
-def greeting
+def greeting(greeting,name)
 
 end
 
 def return_a_value
-    
+    "Nice"
 end
 
-def pizza_party
-    
+def pizza_party(string="cheese")
+    string
 end
 
-def whisper
-    
+def whisper(secret)
+    secret.downcase
 end
